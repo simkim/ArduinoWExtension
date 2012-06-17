@@ -1,0 +1,5 @@
+ArduinoWExtension	KEYWORD1
+ArduinoWGuitar	KEYWORD1
+ArduinoWNunchuk	KEYWORD1
+begin	KEYWORD2
+update	KEYWORD2
