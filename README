@@ -1,0 +1,10 @@
+Yet another library for wii extension using arduino
+
+Implemented :
+ - Nunchuk
+ - Guitar
+
+Exemple : 
+ - GuitarKeyboard : plug and play "Frets on fire"
+ - NunchukMouse : use it for your next presentation
+ - ReverseWExtension : use it to implement new extension 
