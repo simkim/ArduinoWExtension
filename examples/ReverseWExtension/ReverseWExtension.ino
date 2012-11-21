@@ -20,7 +20,7 @@
 #include <Wire.h>
 #include <ArduinoWExtension.h>
 
-ArduinoWDebugger wdebugger = ArduinoWDebugger();
+ArduinoWDebugger wdebugger;
 
 void setup()
 {

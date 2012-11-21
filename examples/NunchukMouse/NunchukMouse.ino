@@ -20,7 +20,7 @@
 #include <Wire.h>
 #include <ArduinoWExtension.h>
 
-ArduinoWNunchuk Nunchuk = ArduinoWNunchuk();
+ArduinoWNunchuk Nunchuk;
 
 void setup()
 {

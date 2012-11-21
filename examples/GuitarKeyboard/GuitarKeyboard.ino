@@ -22,7 +22,7 @@
 #include <Wire.h>
 #include <ArduinoWExtension.h>
 
-ArduinoWGuitar Guitar = ArduinoWGuitar();
+ArduinoWGuitar Guitar;
 
 void setup()
 {
